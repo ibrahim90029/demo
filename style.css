@@ -1,0 +1,21 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:	border-box;
+}
+
+html,body{
+    height:	100%;
+    width:	100%;
+}
+
+.hero-section {
+    background: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1718987483~exp=1718988083~hmac=df7b10d9e5dd1e95fe9404104ef8e7b8041d5af1a31438966b08f68630c576aa) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
